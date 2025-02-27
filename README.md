@@ -1,5 +1,7 @@
-#Image Stitching using SIFT and RANSAC#
+**Image Stitching using SIFT and RANSAC**
+
 Project Overview
+
 This project implements an image stitching algorithm to create a panoramic image from N overlapping images. The process involves detecting keypoints, computing transformations, and blending the images into a seamless panorama.
 
 Methodology
